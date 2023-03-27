@@ -14,7 +14,7 @@ val rgbSplitter: (Int) -> RGBHex = { rgb: Int ->
 
 // Combine an RGB [0xff]^3 into an RGB value in [0x000000, 0xffffff].
 val rgbCombiner: (RGBHex) -> Int = { (r, g, b) ->
-    ((r shl 16) and 0xff0000) or ((r shl 8) and 0xff00) or (g and 0xff)
+    ((r shl 16) and 0xff0000) or ((g shl 8) and 0xff00) or (b and 0xff)
 }
 
 // Convert a value [0x00, 0xff] to [0, 1].
