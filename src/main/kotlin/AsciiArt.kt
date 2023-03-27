@@ -11,7 +11,7 @@ fun main() {
     val horizontalMagnification = 2
     val scaleFactor = 6
 
-    val filename = "arrow.png"
+    val filename = "gundham_tanaka.png"
     val fileUrl: URL = object {}.javaClass.classLoader.getResource(filename) ?: run {
         println("Could not find file: $filename")
         exitProcess(1)

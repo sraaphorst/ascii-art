@@ -13,6 +13,7 @@ Examples (as rendered with [`RGBReducers.luminance_BT709`](src/main/kotlin/RGB.k
 2. Arrow from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en): [[PNG]](src/main/resources/arrow.png) / [[TXT]](output/arrow.txt)
 3. Ringo from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en): [[PNG]](src/main/resources/ringo.png) / [[TXT]](output/ringo.txt)
 4. Figue from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en): [[PNG]](src/main/resources/figue.png) / [[TXT]](output/figue.txt)
+5. Gundham Tanaka from Danganronpa 2: Goodbye Despair: [[PNG]](src/main/resources/gundham_tanaka.png) / [[TXT]](output/gundham_tanaka.txt)
 5. Please do not the cat: [[PNG]](src/main/resources/not_the_cat.png) / [[TXT]](output/not_the_cat.txt)
 6. Me: [[PNG]](src/main/resources/me.png) / [[TXT]](output/me.txt)
 7. My partner and I (lots of background noise): [[PNG]](src/main/resources/us.png) / [[TXT]](output/us.txt)
