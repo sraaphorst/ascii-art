@@ -67,7 +67,8 @@ data class Canvas<T>(val data: List<List<T>>) {
             g2d.setRenderingHint(RenderingHints.KEY_INTERPOLATION, RenderingHints.VALUE_INTERPOLATION_BICUBIC)
             g2d.drawImage(bufferedImage, 0, 0, scaledWidth, scaledHeight, null)
             if (write)
-                ImageIO.write(scaledImage, "PNG", File(file.parent, "out.png"))
+                ImageIO.write(scaledImage, "PNG",
+                    File(file.parent, "${file.nameWithoutExtension} _out${file.extension}"))
 
             val pixels = IntArray(scaledWidth * scaledHeight)
             scaledImage.getRGB(0, 0, scaledWidth, scaledHeight, pixels, 0, scaledWidth)
