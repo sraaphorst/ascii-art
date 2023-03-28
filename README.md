@@ -96,4 +96,5 @@ It is recommended that you click to view the raw image, and then scale down the 
 
 **Status:**
 * Requires command-line interface to specify file and parameters.
+* Instead of hardcoding file conversions in [`AsciiArt`](src/main/kotlin/AsciiArt.kt), this file should be the main interface to the library, and a shell file should generate the examples by invoking it.
 * Experimentation with dithering.
