@@ -80,17 +80,17 @@ calculated the regular mapping and the inverse mapping (i.e. black maps to white
 
 It is recommended that you click to view the raw image, and then scale down the text size.
 
-| Image Information                                                              |                  PNG                  | TXT_29 |                               TXT_29C                                |                  TXT_58C                   |
-|--------------------------------------------------------------------------------|:-------------------------------------:|:---:|:--------------------------------------------------------------------:|:------------------------------------------:|
-| [OMORI](https://www.omori-game.com/en)                                         | [[PNG]](src/main/resources/omori.png) | [[TXT-29]](output/omori_29.txt) | [[TXT-29C]](output/omori_29c.txt) |     [[TXT-58C]](output/omori_58c.txt)      |
-| OMORI inverse                                                                  |                                       |  [[TXT-29]](output/omori_29_reversed.txt) | [[TXT-29C]](output/omori_29c_reversed.txt) | [[TXT-58C]](output/omori_58c_reversed.txt) |
-| Arrow from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en) | [[PNG]](src/main/resources/arrow.png) | [[TXT-29]](output/arrow_29.txt) | [[TXT-29C]](output/arrow_29c.txt) |     [[TXT-58C]](output/arrow_58c.txt)      |
-| Ringo from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en) | [[PNG]](src/main/resources/ringo.png) | [[TXT-29]](output/ringo_29.txt) | [[TXT-29C]](output/ringo_29c.txt) |     [[TXT-58C]](output/ringo_58c.txt)      |
-| Figue from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en) | [[PNG]](src/main/resources/figue.png) | [[TXT-29]](output/figue_29.txt) | [[TXT-29C]](output/figue_29c.txt) |     [[TXT-58C]](output/figue_58c.txt)      |
+| Image Information                                                              |                      PNG                       |                  TXT_29                  |                  TXT_29C                   |                  TXT_58C                   |
+|--------------------------------------------------------------------------------|:----------------------------------------------:|:----------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+| [OMORI](https://www.omori-game.com/en)                                         |     [[PNG]](src/main/resources/omori.png)      |     [[TXT-29]](output/omori_29.txt)      |     [[TXT-29C]](output/omori_29c.txt)      |     [[TXT-58C]](output/omori_58c.txt)      |
+| OMORI inverse                                                                  |                                                | [[TXT-29]](output/omori_29_reversed.txt) | [[TXT-29C]](output/omori_29c_reversed.txt) | [[TXT-58C]](output/omori_58c_reversed.txt) |
+| Arrow from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en) |     [[PNG]](src/main/resources/arrow.png)      |     [[TXT-29]](output/arrow_29.txt)      |     [[TXT-29C]](output/arrow_29c.txt)      |     [[TXT-58C]](output/arrow_58c.txt)      |
+| Ringo from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en) |     [[PNG]](src/main/resources/ringo.png)      |     [[TXT-29]](output/ringo_29.txt)      |     [[TXT-29C]](output/ringo_29c.txt)      |     [[TXT-58C]](output/ringo_58c.txt)      |
+| Figue from [Soul Hackers 2](https://soulhackers2.atlus.com/index.html?lang=en) |     [[PNG]](src/main/resources/figue.png)      |     [[TXT-29]](output/figue_29.txt)      |     [[TXT-29C]](output/figue_29c.txt)      |     [[TXT-58C]](output/figue_58c.txt)      |
 | Gundham Tanaka (Danganronpa 2)                                                 | [[PNG]](src/main/resources/gundham_tanaka.png) | [[TXT-29]](output/gundham_tanaka_29.txt) | [[TXT-29C]](output/gundham_tanaka_29c.txt) | [[TXT-58C]](output/gundham_tanaka_58c.txt) |
-| Please do not the cat                                                          | [[PNG]](src/main/resources/not_the_cat.png) | [[TXT-29]](output/not_the_cat_29.txt) | [[TXT-29C]](output/not_the_cat_29c.txt) |  [[TXT-58C]](output/not_the_cat_58c.txt)   |
-| Me                                                                             | [[PNG]](src/main/resources/me.png) | [[TXT-29]](output/me_29.txt) | [[TXT-29C]](output/me_29c.txt) |       [[TXT-58C]](output/me_58c.txt)       |
-| My partner and I (background noise)                                            | [[PNG]](src/main/resources/us.png) | [[TXT-29]](output/us_29.txt) | [[TXT-29C]](output/us_29c.txt) |       [[TXT-58C]](output/us_58c.txt)       |
+| Please do not the cat                                                          |  [[PNG]](src/main/resources/not_the_cat.png)   |  [[TXT-29]](output/not_the_cat_29.txt)   |  [[TXT-29C]](output/not_the_cat_29c.txt)   |  [[TXT-58C]](output/not_the_cat_58c.txt)   |
+| Me                                                                             |       [[PNG]](src/main/resources/me.png)       |       [[TXT-29]](output/me_29.txt)       |       [[TXT-29C]](output/me_29c.txt)       |       [[TXT-58C]](output/me_58c.txt)       |
+| My partner and I (background noise)                                            |       [[PNG]](src/main/resources/us.png)       |       [[TXT-29]](output/us_29.txt)       |       [[TXT-29C]](output/us_29c.txt)       |       [[TXT-58C]](output/us_58c.txt)       |
 
 ## Remaining Work
 
